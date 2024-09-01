@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/swati-hegde-2779a8257/) 
-[HackerRank Profile](https://www.hackerrank.com/your_username)
+[HackerRank](https://www.hackerrank.com/profile/swatihegde230902)
 
 
 # 💻 Tech Stack:
